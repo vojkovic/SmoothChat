@@ -1,0 +1,9 @@
+{
+  "package": "au.priv.smoothchat.mixins",
+  "refmap": "mixins.smoothchat.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7.11",
+  "client": [
+    "MixinGuiNewChat"
+  ]
+}

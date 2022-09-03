@@ -1,12 +1,12 @@
 [
 {
-  "modid": "betterchat",
-  "name": "Better Chat",
-  "description": "Makes chat smoother and gives it a clear background.",
+  "modid": "smoothchat",
+  "name": "SmoothChat",
+  "description": "Adds a stylish & smooth chat animation.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["LlamaLad7"]
+  "authorList": ["vojkovic","LlamaLad7"]
 }
 ]

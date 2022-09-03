@@ -1,4 +1,4 @@
-package com.llamalad7.betterchat.utils;
+package au.priv.smoothchat.utils;
 
 public class AnimationTools {
     public static float clamp(float number, float min, float max) {
