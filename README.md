@@ -1,6 +1,6 @@
 # SmoothChat
 
-A fork of BetterChat(https://github.com/LlamaLad7/Better-Chat) by LlamaLad7.
+A fork of [BetterChat](https://github.com/LlamaLad7/Better-Chat) by LlamaLad7.
 
 SmoothChat animates the chat background and makes chat background transparent.
 
